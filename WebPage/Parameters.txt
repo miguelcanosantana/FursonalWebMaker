@@ -1,12 +1,12 @@
->>>img_url
-
->>>name
+|||img_url
+https://raw.githubusercontent.com/miguelcanosantana/FursonalWebMaker/master/avatar.jpg
+|||name
 Tide
->>>surname
+|||surname
 Clima
->>>Specie
+|||Specie
 Water Dragon
->>>work
-sea ​​conservation
->>>contact
+|||habitat
+Sea
+|||contact
 @tidethewaterdragon On Telegram
