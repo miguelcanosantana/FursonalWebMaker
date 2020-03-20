@@ -1,0 +1,12 @@
+>>>img_url
+
+>>>name
+Tide
+>>>surname
+Clima
+>>>Specie
+Water Dragon
+>>>work
+sea ​​conservation
+>>>contact
+@tidethewaterdragon On Telegram
