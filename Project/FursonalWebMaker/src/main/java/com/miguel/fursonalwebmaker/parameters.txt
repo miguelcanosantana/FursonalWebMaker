@@ -1,0 +1,37 @@
+|||img_url
+https://raw.githubusercontent.com/miguelcanosantana/FursonalWebMaker/master/avatar.jpg
+|||name
+Tide
+|||surname
+Clima
+|||species
+Water Dragon
+|||habitat
+Sea
+|||contact
+@tidethewaterdragon On Telegram
+
+**Categories Start with "|||"***
+**Change the info below the categories**
+**Never modify category name**
+
+**Categories are specified below:**
+
+  |||img_url
+  *A profile avatar image of your fursona (prefered 1:1 images).
+
+  |||name
+  *The name of your fursona.
+
+  |||name
+  *The surname of your fursona.
+
+  |||species
+  *The species that is your fursona.
+
+  |||habitat
+  *Where your fursona lives.
+
+  |||contact
+  *Contact info, can be anything.
+
