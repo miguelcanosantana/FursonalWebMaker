@@ -41,14 +41,14 @@ public class FursonalWebMaker {
       //Print lines of text until no more the 12, so while ends.
         while (lineCounter <= 12) {
           readText = brd.readLine();
-          System.out.println(readText);
+          //System.out.println(readText);
           
           switch(readText) {
             
             case "|||img_url":
               //Gets line after |||img_url data
               img = Files.readAllLines(Paths.get("parameters.txt")).get(lineCounter);
-              System.out.println(img);
+              //System.out.println(img);
               
             break;
             
@@ -94,7 +94,7 @@ public class FursonalWebMaker {
           
         } 
         
-      System.out.println("Your file is ready, check \"index.html\" ");
+      System.out.println("Your file is ready, check \"index.html\". ");
         
 
       //Write HTML
